@@ -1,0 +1,13 @@
+8 30 s sort
+H 3 2 20
+2 1
+F 0 5 3
+quer
+asdf
+zxcv
+F 0 2 3
+qwer
+asdf
+zxcv
+W 5 5 4
+1
